@@ -19,6 +19,7 @@
 * Unsurprisingly, the two most populous states in the U.S., California and Texas, have the largest number of recruits. For other states, however, the East Coast and South are dominant. Georgia and Florida both are highly productive, as well as Illinois.
 ### College
 * As most players' last step before turning professional, college can greatly assist or offset their career trajectory. Certain colleges, such as Kentucky and Duke, are highly focused on developing high-level players for the NBA, while others are more focused on the college game and developing four-year players.
+
 ![](/images/img3.png)
 ![](/images/img4.png)
 * words
