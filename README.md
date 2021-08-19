@@ -10,8 +10,9 @@
 * The dataset includes data from high school basketball players and their stats in the NBA. The high school player data was scraped from the ESPN 100 Basketball Recruiting website, which includes each player's class rank, as well as their height, weight, position, hometown, and overall player grade for all top 100 recruits from 2007 to 2017. The NBA data was gathered from the nba_api client package provided by Swar Patel, found [here](https://github.com/swar/nba_api). 
 ---
 ## Analysis: Prospects in High School
-* While the majority of high school teams are based around local players, some prep schools are known for recruiting top prospects from around the country to provide the kind of resources and training to college and professional competition.
+* The first main step in their basketball career is high school competition. Below are some of the most popular schools for recruits:
 ![](/images/img1.png)
+* While the majority of high school teams are based around local players, some prep schools are known for consistently recruiting top prospects from around the country to provide the kind of resources and training to college and professional competition.
 * What areas produce the most prospects? The map below represents the distribution of top prospects throughout the country. For simplicity, it only includes American prospects:
 ![](/images/img2.png)
 * Unsurprisingly, the two most populous states in the U.S., California and Texas, stand out (Canada)
