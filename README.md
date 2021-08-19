@@ -32,9 +32,9 @@
 ### The Impact of College Programs
 * In order to evaluate a player's NBA career success, this analysis uses a modified version of Game Score, which is a statistic created by John Hollinger as an estimation of a player's overall statistical performance, averaged for all NBA games they've played. The chart below shows the average Game Scores of NBA players by their college:
 ![](/images/img6.png)
-* One
+* Kentucky's dominance is further emphasized here, as the efficiency of its alumni outclasses that of nearly every other college. Texas players hold the highest average Game Score, but with only 6 recruits, this is less significant. Powerhouse universities Duke, UCLA, and Kansas also show consistent NBA success.
 ![](/images/img7.png)
-* words
+* Another important metric to consider for each college is the percentage of recruits who actually played in the NBA. Although the Texas alumni who played in the NBA were much more successful on average, Texas players have the lowest odds of making the league out of the major colleges. Additionally, while recent North Carolina players have not seen major success in the NBA, UNC is one of the most productive universities in sending college players to the pros.
 ### Other NBA Productivity Factors?
 ![](/images/img8.png)
 * words
