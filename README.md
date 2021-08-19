@@ -18,10 +18,8 @@
 * Unsurprisingly, the two most populous states in the U.S., California and Texas, have the largest number of recruits. For other states, however, the East Coast and South are dominant. Georgia and Florida both are highly productive, as well as Illinois.
 ![](/images/img3.png)
 * words
--
 ![](/images/img4.png)
 * words
---
 ![](/images/img5.png)
 * words
 ---
