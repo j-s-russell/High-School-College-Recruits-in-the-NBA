@@ -10,7 +10,7 @@
 * The dataset includes data from high school basketball players and their stats in the NBA. The high school player data was scraped from the ESPN 100 Basketball Recruiting website, which includes each player's class rank, as well as their height, weight, position, hometown, and overall player grade for all top 100 recruits from 2007 to 2017. The NBA data was gathered from the nba_api client package provided by Swar Patel, found [here](https://github.com/swar/nba_api). 
 ---
 ## Prospects in High School
-### High School and Home State Analysis
+### High School and Home State
 * The first main step in their basketball career is high school competition. Below are some of the most popular schools for recruits:
 ![](/images/img1.png)
 * While the majority of high school teams are based around local players, some prep schools are known for consistently recruiting top prospects from around the country to provide the kind of resources and training to college and professional competition.
@@ -28,8 +28,10 @@
 ![](/images/img5.png)
 * While guards and forwards seem to be fairly balanced, the center position is consistently underrepresented among top 100 recruits. The late 2000s and 2010s have seen drastic changes in the NBA game, with traditional low-block centers becoming increasingly uncommon in favor of more ball handlers and three point shooters. Additionally, while American high schools produce some of the best guards and forwards in the game today, many of the top NBA centers come from overseas, such as Nikola Jokic, Rudy Gobert, Domantas Sabonis and Nikola Vucevic.
 ---
-## Analysis: Prospects in the NBA
-* words
+## Prospects in the NBA
+* We
+### The Impact of College Programs
+* 
 ![](/images/img6.png)
 * words
 ![](/images/img7.png)
