@@ -5,3 +5,8 @@
 ---
 ## Data
 * The dataset includes data from high school basketball players and their stats in the NBA. The high school player data was scraped from the ESPN 100 Basketball Recruiting website, which includes each player's class rank, as well as their height, weight, position, hometown, and overall player grade. The NBA data was gathered from the nba_api client package provided by Swar Patel, found [here](https://github.com/swar/nba_api). 
+---
+## Analysis
+* This
+
+![](/images/img1.png)
