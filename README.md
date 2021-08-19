@@ -20,9 +20,9 @@
 ### College
 * Some colleges are known for
 ![](/images/img3.png)
-* words
 ![](/images/img4.png)
 * words
+* * word?
 ![](/images/img5.png)
 * words
 ---
