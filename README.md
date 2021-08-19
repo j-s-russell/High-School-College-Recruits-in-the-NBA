@@ -41,6 +41,8 @@
 * Are there other ways to predict how a high school or college player will fare in the NBA? As shown below, position is not a significant factor in determining NBA productivity:
 
 ![](/images/img8.png)
-* words
+
+* Is there a significant link between ESPN high school player rankings and their likelihood of making the NBA?
 ![](/images/img9.png)
-* more words!
+
+* While prospects in the top 10 or top 25 hold more roster spots in the NBA, the rankings below 30 and 40 aren't good indicators of professional potential. Some NBA talents can be difficult to detect at this stage, as players like Stephen Curry, Damian Lillard, Jimmy Butler, and several others weren't recognized by scouts until they played in college. However, decorated high school standouts such as Zion Williamson, Ben Simmons, and Anthony Davis who possess obvious top-tier physical attributes and skills are easily spotted and aren't difficult to recognize as future NBA stars.
