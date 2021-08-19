@@ -22,8 +22,7 @@
 
 ![](/images/img3.png)
 ![](/images/img4.png)
-* words
-  * word?
+* Kentucky and Duke are clear leaders as destinations for top recruits. As their programs specialize in developing players who will only play in college for a year or two, most incoming prospects will get immediate playing time with other high-level recruits and working with coaches who have experience with some of the most successful NBA players. 
 ![](/images/img5.png)
 * words
 ---
