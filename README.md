@@ -38,6 +38,8 @@
 ![](/images/img7.png)
 * Another important metric to consider for each college is the percentage of recruits who actually played in the NBA. Although the Texas alumni who played in the NBA were much more successful on average, Texas players have the lowest odds of making the league out of the major colleges. Additionally, while recent North Carolina players have not seen major success in the NBA, UNC is one of the most productive universities in sending college players to the pros.
 ### Other NBA Productivity Factors?
+* Are there other ways to predict how a high school or college player will fare in the NBA? As shown below, position is not a significant factor in determining NBA productivity:
+
 ![](/images/img8.png)
 * words
 ![](/images/img9.png)
