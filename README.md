@@ -24,6 +24,7 @@
 ![](/images/img4.png)
 * Kentucky and Duke are clear leaders as destinations for top recruits. As their programs specialize in developing players who will only play in college for a year or two, most incoming prospects will get immediate playing time with other high-level recruits and working with coaches who have experience with some of the most successful NBA players. 
 * Let's take a look at player positions over time:
+
 ![](/images/img5.png)
 * While guards and forwards seem to be fairly balanced, the center position is consistently underrepresented among top 100 recruits. The late 2000s and 2010s have seen drastic changes in the NBA game, with traditional low-block centers becoming increasingly uncommon in favor of more ball handlers and three point shooters. Additionally, while American high schools produce some of the best guards and forwards in the game today, many of the top NBA centers come from overseas, such as Nikola Jokic, Rudy Gobert, Domantas Sabonis and Nikola Vucevic.
 ---
