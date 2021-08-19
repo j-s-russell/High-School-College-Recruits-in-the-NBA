@@ -1,4 +1,4 @@
-# High School Recruits in the NBA - Exploratory Data Analysis
+# Basketball Prospects in the NBA - Exploratory Data Analysis
 ---
 ### Background
 * NBA scouts, team managers, and fans are always on the lookout for the next big star in the league. While it's sometimes clear when a young NBA phenom is on this kind of trajectory, it's not always obvious and often misleading when trying to predict the careers of high school basketball prospects, as they're still early in their development as players and as people. This analysis explores some trends in the careers of these players, specifically how their high school ranking, college, and other attributes are related to their performance as a professional.
