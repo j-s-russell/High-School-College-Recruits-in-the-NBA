@@ -29,13 +29,13 @@
 * While guards and forwards seem to be fairly balanced, the center position is consistently underrepresented among top 100 recruits. The late 2000s and 2010s have seen drastic changes in the NBA game, with traditional low-block centers becoming increasingly uncommon in favor of more ball handlers and three point shooters. Additionally, while American high schools produce some of the best guards and forwards in the game today, many of the top NBA centers come from overseas, such as Nikola Jokic, Rudy Gobert, Domantas Sabonis and Nikola Vucevic.
 ---
 ## Prospects in the NBA
-* We
 ### The Impact of College Programs
-* 
+* In order to evaluate a player's NBA career success, this analysis uses a modified version of Game Score, which is a statistic created by John Hollinger as an estimation of a player's overall statistical performance, averaged for all NBA games they've played. The chart below shows the average Game Scores of NBA players by their college:
 ![](/images/img6.png)
-* words
+* One
 ![](/images/img7.png)
 * words
+### Other NBA Productivity Factors?
 ![](/images/img8.png)
 * words
 ![](/images/img9.png)
