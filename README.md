@@ -22,7 +22,7 @@
 ![](/images/img3.png)
 ![](/images/img4.png)
 * words
-* * word?
+  * word?
 ![](/images/img5.png)
 * words
 ---
